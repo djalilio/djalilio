@@ -1,59 +1,70 @@
-# HAMRIT ABDELDJALIL | ASPIRING BACKEND DEVELOPER
+<div align="center">
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/82/01/5e/82015e3427ea3b71bf1b4737c7f3940c.jpg" width="100%" />
-</p>
+<img src="./banner.jpeg" width="100%" alt="Sae banner">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=300&color=E63946&center=true&vCenter=true&width=900&lines=ASPIRING+BACKEND+DEVELOPER;LEARNING%2C+BUILDING%2C+BREAKING+%26+FIXING+THINGS;PYTHON+%7C+JAVASCRIPT+%7C+SQL" />
-</p>
+<br>
+
+# 🔴 HAMRIT ABDELDJALIL
+
+### ASPIRING BACKEND DEVELOPER
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=E63946&center=true&vCenter=true&width=850&lines=Learning%2C+Building%2C+Breaking+%26+Fixing+Things;Python+%7C+JavaScript+%7C+SQL;Backend+Development+in+Progress" alt="Typing animation">
+
+<br>
+
+<img src="./giphy.gif" width="360" alt="Sae animation">
+
+</div>
 
 ---
 
 ## TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,html,css,git,linux&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql,html,css,git,linux&theme=dark" alt="Tech stack">
+
+</div>
 
 ---
 
 ## CURRENTLY LEARNING
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="85" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Going deeper into Python and backend development.</b>
-</p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="85" alt="Python">
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=20&duration=450&pause=80&color=E63946&center=true&vCenter=true&width=1000&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+FIX+%E2%86%92+REPEAT" />
-</p>
+**Going deeper into Python and backend development.**
+
+</div>
 
 ---
 
 ## CONNECT WITH ME
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.instagram.com/vr9aj">
-  <img src="https://img.shields.io/badge/Instagram-vr9aj-E63946?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-vr9aj-E63946?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="mailto:djalilhamrit@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-djalilhamrit%40gmail.com-E63946?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-djalilhamrit%40gmail.com-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-fthi7420-E63946?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-fthi7420-E63946?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=100&section=footer" width="100%" />
-</p>
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=90&section=footer" width="100%">
+
+</div>
+
