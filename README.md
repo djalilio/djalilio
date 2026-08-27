@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="./sae.jpeg" width="100%"  alt="Sae banner">
-
-<br>
 
 # 🔴 HAMRIT ABDELDJALIL
 
