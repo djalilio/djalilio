@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 🔴 HAMRIT ABDELDJALIL
 
@@ -63,4 +63,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=90&section=footer" width="100%">
 
 </div>
-
